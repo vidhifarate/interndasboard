@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  padding: 2rem;
+  background: #e0f7fa;
+}
+
+.dashboard {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  max-width: 600px;
+  margin: auto;
+}
+
+.rewards {
+  margin-top: 20px;
+  background: #f1f1f1;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+a {
+  display: inline-block;
+  margin-top: 1rem;
+  text-decoration: none;
+  color: #007bff;
+}
